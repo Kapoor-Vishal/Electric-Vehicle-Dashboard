@@ -1,4 +1,3 @@
-# Electric-Vehicle-Dashboard
 # ⚡ Electric Vehicle Specifications Power BI Dashboard (2025 Dataset)
 
 ## 📌 Project Title:  
@@ -16,7 +15,6 @@ This Power BI dashboard project is designed to explore and visualize key attribu
 
 - **Source**: [Kaggle - Electric Vehicle Specifications 2025](https://www.kaggle.com/datasets/urvishahir/electric-vehicle-specifications-dataset-2025)
 - **Format**: CSV
-- **Records**: ~550+ electric vehicle models from various global manufacturers
 - **Fields Included**:
   - Manufacturer / Brand
   - Battery Capacity (kWh)
@@ -39,7 +37,7 @@ This Power BI dashboard project is designed to explore and visualize key attribu
 | **Power BI Desktop** | Visualization, analysis, dashboarding |
 | **DAX** | Calculated fields and KPIs |
 | **Power Query Editor** | Data cleaning, transformation |
-| **Excel / Python (optional)** | Pre-cleaning or inspection |
+| **Python** | Cleaning, EDA, Integration |
 
 ---
 
@@ -234,5 +232,6 @@ Below are the ten key questions addressed in the dashboard, along with the **app
 
 ---
 
-## 📁 Repository Structure
-
+## 📬 Contact -
+E-mail - vishalkapoor9803@gmail.com
+Linkedin - https://www.linkedin.com/in/vishal--kapoor/
