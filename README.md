@@ -36,7 +36,6 @@ This Power BI dashboard project is designed to explore and visualize key attribu
 |-----------------|---------|
 | **Power BI Desktop** | Visualization, analysis, dashboarding |
 | **DAX** | Calculated fields and KPIs |
-| **Power Query Editor** | Data cleaning, transformation |
 | **Python** | Cleaning, EDA, Integration |
 
 ---
